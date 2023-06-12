@@ -1,0 +1,22 @@
+# TEAM
+
+    General contact: info@efox.nl
+
+    Chairman of the board: E.E.H. van Wegen
+
+    Lead developer: Thomas Schuller
+    Contact: me@tschuller.nl
+    GitHub: github.com/thoschuller
+
+    CSS lead / Developer: Tom Kraan
+    Contact: tomjazz5@gmail.com
+    GitHub: github.com/tomjazz5
+
+    Developer: Jaimy van Hattem
+    Contact: jaimy.van.hattem@gmail.com
+    GitHub: github.com/james-programming-man
+
+# THANKS
+
+    Rosan van der Linden
+    Cassandra Bleuel
